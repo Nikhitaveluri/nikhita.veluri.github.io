@@ -14,6 +14,7 @@
     background-color: #D3D3D3;
     color: black; /* text color */
     font-family: Arial, Helvetica, sans-serif; /* text font */
+    text-align:centre;
    }
 
   footer {
@@ -31,7 +32,6 @@
     /* setting both the bottom margin and top margin to 2.5rem */
     margin-top: 2.5rem;
     margin-bottom: 2.5rem;
-    text-align: centre;
    }
 
   h3 {
@@ -42,4 +42,7 @@
   h4 {
     margin-bottom: 1rem;
     margin-top: 0.5rem;
+  }
+  ul {
+    list-style-position:inside;
   }
