@@ -10,11 +10,6 @@
     text-decoration: none;
   }
 
-  a:visited {
-    color: purple;
-    text-decoration: none;
-  }
-
   body {
     background-color: beige;
     color: black; /* text color */
@@ -49,4 +44,8 @@
   }
   ul {
     list-style-position:inside;
+  }
+  
+  table {
+    text-align: center;
   }
