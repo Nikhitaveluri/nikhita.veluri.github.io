@@ -9,6 +9,11 @@
     color: red;
     text-decoration: none;
   }
+   
+  a:visited {
+    color: purple;
+    text-decoration: none;
+  }
 
   body {
     background-color: #C2BABC; /* To set the background color */
